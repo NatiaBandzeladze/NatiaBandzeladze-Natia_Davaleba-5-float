@@ -28,6 +28,14 @@ section div{
     width: 582px;
     float: left;
 }
+section div{
+    margin: 63px 55px 80px 137px;
+}
+section:after{
+    content: "";
+    display: block;
+    clear: left;
+}
 .article1{
     float: left;
     
@@ -45,8 +53,9 @@ section div{
     padding: 23px 0 26px 15px;
 }
 p{
-    width: 392px;
+    float: left;
 }
+
 .article2 img{
     float: left;
     height: 118px;
