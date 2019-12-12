@@ -2,16 +2,15 @@ body{
     background-color: #22B573;
     font-family: 'Montserrat-Black'
 }
-header{
-    float: right;
-}
+
 a img{
+    float: right;
     height: 151px;
     padding: 45px 55px 0 0;
-    margin: 0 0 62px 75px;
+    
 }
 .navbar{
-    display: inline-block;
+    float: right;
     vertical-align: top;
     padding: 45px 55px 0 0;
 }
@@ -20,4 +19,24 @@ a img{
     font-size: 48px;
     margin-right: 50px;
 
+}
+.clear{
+    clear: right;
+}
+section div{
+    background-color: #FCEE21;
+}
+.article1 img{
+    float: right;
+    height: 118px;
+}
+.article1 p{
+    float: left;
+}
+.article2 img{
+    float: left;
+    height: 118px;
+}
+.article2 p{
+    float: right;
 }
