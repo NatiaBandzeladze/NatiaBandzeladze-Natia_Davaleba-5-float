@@ -26,40 +26,21 @@ a img{
 section div{
     background-color: #FCEE21;
     width: 582px;
-    float: left;
-}
-section div{
-    margin: 63px 55px 80px 137px;
 }
 section:after{
     content: "";
     display: block;
     clear: left;
 }
-.article1{
+.float-left{
     float: left;
-    
-}
-.article2{
-    float: right;
 }
 .img-typo{
     float: right;
     width: 151px;
     padding: 23px 10px 0 0;
 }
-.article1 div{
-    float: left;
-    padding: 23px 0 26px 15px;
-}
-p{
-    float: left;
-}
 
-.article2 img{
-    float: left;
+.img-typo{
     height: 118px;
-}
-.article2 p{
-    float: right;
 }
