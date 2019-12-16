@@ -3,7 +3,7 @@ body{
     font-family: 'Montserrat-Black'
 }
 
-a img{
+.logo{
     float: right;
     height: 151px;
     padding: 45px 55px 0 0;
@@ -35,10 +35,10 @@ section:after{
 .float-left{
     float: left;
 }
+.float-right{
+    float: right;
+}
 .img-typo{
     height: 118px;
     padding: 23px 10px 0 0;
-}
-.float-right{
-    float: right
 }
