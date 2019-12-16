@@ -36,11 +36,9 @@ section:after{
     float: left;
 }
 .img-typo{
-    float: right;
-    width: 151px;
+    height: 118px;
     padding: 23px 10px 0 0;
 }
-
-.img-typo{
-    height: 118px;
+.float-right{
+    float: right
 }
