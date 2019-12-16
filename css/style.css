@@ -31,6 +31,14 @@ section:after{
     display: block;
     clear: left;
 }
+.box1{
+    width: 582px;
+    margin: 10px 20px 0 30px
+}
+.box2{
+    width: 582px;
+    margin: 10px 30px 0 0
+}
 .float-left{
     float: left;
 }
@@ -40,8 +48,4 @@ section:after{
 .img-typo{
     height: 118px;
     padding: 23px 10px 0 0;
-}
-p{
-    width: 582px;
-    padding: 5px 3px 5px 7px
 }
