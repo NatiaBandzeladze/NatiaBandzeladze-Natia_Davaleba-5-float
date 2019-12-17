@@ -49,7 +49,7 @@ section:after{
     height: 118px;
     padding: 23px 10px 0 0;
 }
-.box1: after{
+.box1:after{
     content: "";
     display: block;
     clear:both;
