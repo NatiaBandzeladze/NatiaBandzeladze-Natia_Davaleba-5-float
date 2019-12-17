@@ -49,12 +49,12 @@ section:after{
     height: 118px;
     padding: 23px 10px 0 0;
 }
-.box1:after{
+.article1:after{
     content: "";
     display: block;
     clear:both;
 }
-.box2:after{
+.article2:after{
     content: "";
     display: block;
     clear:both;
